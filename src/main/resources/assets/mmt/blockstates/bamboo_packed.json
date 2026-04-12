@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "mmt:block/bamboo_packed_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "mmt:block/bamboo_packed"
+    },
+    "axis=z": {
+      "model": "mmt:block/bamboo_packed_horizontal",
+      "x": 90
+    }
+  }
+}

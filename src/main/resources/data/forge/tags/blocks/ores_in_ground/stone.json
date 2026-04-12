@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mmt:ruby_ore",
+    "mmt:sapphire_ore",
+    "mmt:topaz_ore",
+    "mmt:turquoise_ore"
+  ]
+}

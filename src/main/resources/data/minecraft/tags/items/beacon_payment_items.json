@@ -1,0 +1,34 @@
+{
+  "replace": false,
+  "values": [
+    "mmt:boron_ingot",
+    "mmt:brass_ingot",
+    "mmt:cobalt_ingot",
+    "mmt:europium_ingot",
+    "mmt:lead_ingot",
+    "mmt:nickel_ingot",
+    "mmt:palladium_ingot",
+    "mmt:platinum_ingot",
+    "mmt:rhodium_ingot",
+    "mmt:scandium_ingot",
+    "mmt:silicon_ingot",
+    "mmt:silver_ingot",
+    "mmt:steel_ingot",
+    "mmt:tellurium_ingot",
+    "mmt:thorium_ingot",
+    "mmt:thulium_ingot",
+    "mmt:titanium_ingot",
+    "mmt:uranium_ingot",
+    "mmt:yttrium_ingot",
+    "mmt:zirconium_ingot",
+    "mmt:echo_ingot",
+    "mmt:electrum_ingot",
+    "mmt:invar_ingot",
+    "mmt:osmium_ingot",
+
+    "mmt:ruby",
+    "mmt:sapphire",
+    "mmt:topaz",
+    "mmt:turquoise"
+  ]
+}

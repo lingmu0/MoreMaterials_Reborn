@@ -1,0 +1,10 @@
+{
+    "variants": {
+      "": [
+        {"model": "mmt:block/cosmos_aurora_block_1"},
+        {"model": "mmt:block/cosmos_aurora_block_2"},
+        {"model": "mmt:block/cosmos_aurora_block_3"},
+        {"model": "mmt:block/cosmos_aurora_block_4"}
+      ]
+    }
+  }

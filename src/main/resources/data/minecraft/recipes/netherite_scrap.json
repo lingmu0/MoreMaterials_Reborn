@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 2.0,
+  "ingredient": {
+    "item": "mmt:scrap_clump"
+  },
+  "result": "minecraft:netherite_scrap"
+}

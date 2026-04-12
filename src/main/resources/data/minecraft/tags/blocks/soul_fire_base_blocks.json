@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "mmt:echo_block",
+    "minecraft:raw_copper_block",
+    "minecraft:copper_block",
+    "minecraft:exposed_copper",
+    "minecraft:weathered_copper",
+    "minecraft:oxidized_copper",
+    "minecraft:cut_copper",
+    "minecraft:exposed_cut_copper",
+    "minecraft:weathered_cut_copper",
+    "minecraft:oxidized_cut_copper",
+    "minecraft:cut_copper_stair",
+    "minecraft:exposed_cut_copper_stair",
+    "minecraft:weathered_cut_copper_stair",
+    "minecraft:oxidized_cut_copper_stair",
+    "minecraft:cut_copper_slab",
+    "minecraft:exposed_cut_copper_slab",
+    "minecraft:weathered_cut_copper_slab",
+    "minecraft:oxidized_cut_copper_slab"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mmt:block/lead_block"
+    }
+  }
+}

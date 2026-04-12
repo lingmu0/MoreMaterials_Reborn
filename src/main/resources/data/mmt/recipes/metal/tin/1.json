@@ -1,0 +1,2 @@
+{"type": "minecraft:crafting_shaped","pattern": ["+++","+++","+++"],"key": {"+": 
+    {"tag": "forge:ingots/tin"}},"result": {"item": "mmt:tin_block"}}

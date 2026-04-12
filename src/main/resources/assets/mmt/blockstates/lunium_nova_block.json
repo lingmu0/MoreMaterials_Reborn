@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mmt:block/lunium_nova_block"
+    }
+  }
+}

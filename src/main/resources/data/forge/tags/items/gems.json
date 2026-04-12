@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "mmt:pearl",
+    "mmt:ruby",
+    "mmt:sapphire",
+    "mmt:topaz",
+    "mmt:turquoise",
+    "mmt:alexandrite",
+    "mmt:amber",
+    "mmt:ametrine",
+    "mmt:aquamarine",
+    "mmt:citrine",
+    "mmt:garnet",
+    "mmt:jade",
+    "mmt:kunzite",
+    "mmt:moonstone",
+    "mmt:opal",
+    "mmt:ultranium_gem",
+    "mmt:peridot",
+    "mmt:rose_quartz",
+    "mmt:tanzanite",
+    "mmt:tourmaline",
+    "mmt:spinel",
+    "mmt:bismuth",
+    "mmt:sunstone"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "mmt:abiding_alloy_block",
+    "mmt:midnight_abyssal_block",
+    "mmt:void_block",
+    "mmt:xeproda_block",
+    "mmt:cosmos_aurora_block",
+    "mmt:ultranium_gem_block",
+    "mmt:echo_block"
+  ]
+}

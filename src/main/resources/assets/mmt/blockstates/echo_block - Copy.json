@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "mmt:block/echo_block"
+      },
+      {
+        "model": "mmt:block/echo_block_mirrored"
+      },
+      {
+        "model": "mmt:block/echo_block",
+        "y": 180
+      },
+      {
+        "model": "mmt:block/echo_block_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

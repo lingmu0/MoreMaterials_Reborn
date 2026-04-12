@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "mmt:brass_block",
+    "mmt:electrum_block",
+    "mmt:raw_netherite_block"
+  ]
+}

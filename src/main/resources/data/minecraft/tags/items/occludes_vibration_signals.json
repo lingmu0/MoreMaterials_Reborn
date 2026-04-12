@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "mmt:echo_block",
+    "mmt:echo_ingot",
+    "mmt:echo_nugget"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 2.0,
+  "ingredient": {
+    "item": "mmt:raw_netherite_ingot"
+  },
+  "result": "minecraft:netherite_ingot"
+}

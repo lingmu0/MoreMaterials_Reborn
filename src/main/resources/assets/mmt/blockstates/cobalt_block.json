@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mmt:block/cobalt_block"
+    }
+  }
+}

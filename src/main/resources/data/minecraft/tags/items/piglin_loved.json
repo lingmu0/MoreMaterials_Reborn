@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "mmt:brass_block",
+    "mmt:electrum_block",
+    "mmt:brass_ingot",
+    "mmt:electrum_ingot",
+    "mmt:brass_nugget",
+    "mmt:electrum_nugget",
+    "mmt:raw_netherite_block",
+    "mmt:raw_netherite_ingot"
+  ]
+}
