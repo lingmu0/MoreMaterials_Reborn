@@ -1,2 +1,2 @@
 {"type":"minecraft:crafting_shapeless","ingredients":
-    [{"item": "mmt:amethyst_block"}],"result":{"item":"mmt:amethyst","count":9}}
+    [{"item": "mmt:amethyst_block"}],"result":{"item":"minecraft:amethyst_shard","count":9}}
