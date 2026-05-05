@@ -43,11 +43,9 @@
     "mmt:scrap_block",
     "mmt:amethyst_block",
     "mmt:charcoal_block",
-    "mmt:raw_netherite_block",
     "mmt:ultranium_gem_block",
     "mmt:thorium_block",
     "mmt:titanium_block",
-    "mmt:zirconium_block",
     "mmt:stellar_block",
     "mmt:thlanium_block",
     "mmt:tungsten_block",
@@ -120,8 +118,7 @@
     "mmt:raw_yttrium_block",
     "mmt:raw_zinc_block",
     "mmt:raw_zirconium_block",
-    "mmt:raw_netherite_block",
-    "mmt:block"
+    "mmt:raw_netherite_block"
     
   ]
 }
